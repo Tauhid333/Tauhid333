@@ -1,6 +1,6 @@
 Hi, I’m Tauhid.
 I’m interested in building website and software.
-I’m currently learning Web-Development.
+I’m currently learning Software Testing, Web Automation, Performance & API Testing.
 You can reach me through my e-mail address.
 E-mail: rahmantauhidur33@gmail.com
 
