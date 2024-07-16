@@ -2,8 +2,8 @@ Hi, I’m Tauhid.
 I’m interested in building website and software.
 I’m currently learning Software Testing, Web Automation, Performance & API Testing.
 You can reach me through my e-mail address & cellphone.
---E-mail: rahmantauhidur33@gmail.com
---Cell: +8801777059065
+-E-mail: rahmantauhidur33@gmail.com
+-Cell: +8801777059065
 
 
 <!---
